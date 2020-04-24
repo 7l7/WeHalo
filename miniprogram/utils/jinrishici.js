@@ -13,7 +13,7 @@ const load = callback => {
       },
       success: res => {
         if (res.data.status === "success") {
-          callback(res.data)
+          callback(res.data) 
         } else {
           console.error("今日诗词API 获取古诗词 失败，错误原因：" + res.data.errMessage)
         }

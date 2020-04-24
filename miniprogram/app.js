@@ -92,13 +92,13 @@ App({
         userInfo: null,
         skin: null,
         roleFlag: false,
-        url: "xx",//http://localhost:8090
-        BlogName: "xx",
+        url: "https://github.com/7l7",//http://localhost:8090
+        BlogName: "7l7's halo",
         token: "xx",
         highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
         adminOpenid: "xx",
-        HaloUser: "xx",
+        HaloUser: "xx", 
         HaloPassword: "xx"
-    }
+    } 
     
 })
